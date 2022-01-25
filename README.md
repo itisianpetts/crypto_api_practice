@@ -1,5 +1,5 @@
 # Crypto API
-**Get Crypto Prices and News**
+**Get the latests Cryptocurrency Prices and News**
 
 #### Built with: React, Redux Toolkit, Ant Desgin & Chart.js
 ##### API data from Rapid API
