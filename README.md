@@ -1,8 +1,8 @@
 # Crypto API
 **Get Crypto Prices and News**
 
-##### Built with: React, Redux Toolkit, Ant Desgin, Chart.js
-#### API data from Rapid API
+#### Built with: React, Redux Toolkit, Ant Desgin, Chart.js
+##### API data from Rapid API
 Deployed via Netlify to https://ian-petts-crypto-api.netlify.app/
 
 ### Home Page
